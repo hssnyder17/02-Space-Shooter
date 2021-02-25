@@ -1,5 +1,5 @@
 # Exercise-02d-Godot-Template
-Exercise for MSCH-C220, 15 February 2021
+2D Space Shooter Exercise for MSCH-C220, 24 February 2021
 
 A Godot Project Template, for use in future projects.
 
